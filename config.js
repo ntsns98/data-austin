@@ -18,10 +18,6 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
@@ -33,7 +29,7 @@ module.exports = {
       facebook: '',
       telegram: '',
       twitter: '',
-      github: '#ntsns98',
+      github: 'ntsns98',
       rss: '',
       vkontakte: '',
       linkedin: '#kai-cheng-liu-03a549161',
@@ -44,7 +40,7 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '#austin_liu',
+      medium: '@austin_liu',
       kaggle: '#austinliu',
 
     }
