@@ -41,7 +41,7 @@ module.exports = {
       youtube: '',
       soundcloud: '',
       medium: '@austin_liu',
-      kaggle: '#austinliu',
+      kaggle: 'austinliu',
 
     }
   }
