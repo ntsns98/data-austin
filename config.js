@@ -30,21 +30,23 @@ module.exports = {
     bio: 'Blog by Austin | Big data engineer',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: '#ntsns98',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '#kai-cheng-liu-03a549161',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '',
+      medium: '#austin_liu',
+      kaggle: '#austinliu',
+
     }
   }
 };

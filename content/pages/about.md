@@ -4,10 +4,14 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+![](/media/image-2.jpg)
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+Software engineer with 4 years of experience developing data-driven solutions to improve efficiency for businesses in data privacy, data science and big data area. I'm passionate and motivated, and eager to put my expertise in data science to solve real-world problems.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Skills:
+Programming：Python, Flask, Celery, Spark, scikit-learn, NLTK, Airflow, TFX
+Tools：Docker, Git, Jenkins, Swagger, NiFi, CKAN
+DB & Storage：Hive, HDFS, Elasticsearch, MongoDB, PostgreSQL, MinIO
+BI：Grafana, Kibana, Superset, Tableau
+Governance：Atlas, Ranger
+Fields：Data Science, De-identification, Big data, Data platform
