@@ -1,6 +1,6 @@
 ---
 title: 如何用 Gatsby、Netlify、Github 打造客製化免費部落格
-date: "2017-08-19T22:40:32.169Z"
+date: "2020-09-27T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "how-to-create-personal-blog"
