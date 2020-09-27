@@ -8,7 +8,7 @@ module.exports = {
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -18,6 +18,10 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
+    },
+    {
+      label: '#typography',
+      path: '/category/typography/'
     }
   ],
   author: {
@@ -25,7 +29,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Blog by Austin | Big data engineer',
     contacts: {
-      email: '',
+      email: 'ntsns98@hotmail.com',
       facebook: '',
       telegram: '',
       twitter: '',
