@@ -20,8 +20,8 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: '#typography',
-      path: '/category/typography/'
+      label: 'Category - Tools',
+      path: '/category/tools/'
     }
   ],
   author: {
