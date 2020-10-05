@@ -1,17 +1,17 @@
 ---
-title: 如何用 Gatsby、Netlify、Github 打造客製化免費部落格
-date: "2020-10-01T10:40:32.169Z"
-template: "post"
+category: Tools
+date: 2020-10-01T10:40:32.169Z
+description: 介紹如何使用免費開源工具架設個人部落格
 draft: false
-slug: "how-to-create-personal-blog"
-category: "Tools"
+slug: how-to-create-personal-blog
 tags:
   - "Blog"
   - "Gatsby"
   - "Github"
   - "Netlify"
   - "Notion"
-description: "介紹如何使用免費開源工具架設個人部落格"
+template: post
+title: 如何用 Gatsby、Netlify、Github、Notion 打造客製化免費部落格
 ---
 
 - [Abstract](#abstract)
