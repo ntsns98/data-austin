@@ -15,11 +15,11 @@ title: 如何用 Gatsby、Netlify、Github、Notion 打造客製化免費部落�
 socialImage: "/media/42-line-bible.jpg"
 ---
 
-- [Abstract](#abstract)
-- [Environment](#environment)
-- [CI/CD Your Blog](#ci/cd-your-blog)
-- [Epilogue](#epilogue)
-- [Reference](#reference)
+- [Abstract](#1-abstract)
+- [Environment](#2-environment)
+- [CI/CD Your Blog](#3-cicd-your-blog)
+- [Epilogue](#4-epilogue)
+- [Reference](#5-reference)
 
 # 1. Abstract
 
