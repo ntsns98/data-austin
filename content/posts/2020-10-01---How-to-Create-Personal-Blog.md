@@ -12,6 +12,7 @@ tags:
   - "Notion"
 template: post
 title: 如何用 Gatsby、Netlify、Github、Notion 打造客製化免費部落格
+socialImage: "/media/42-line-bible.jpg"
 ---
 
 - [Abstract](#abstract)
