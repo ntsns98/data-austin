@@ -15,18 +15,24 @@ socialImage: "/media/42-line-bible.jpg"
 ---
 
 - [Abstract](#1-abstract)
-- [Environment](#2-environment)
-- [CI/CD Your Blog](#3-cicd-your-blog)
-- [Epilogue](#4-epilogue)
-- [Reference](#5-reference)
+- [Workflow](#2-workflow)
+- [Environment](#3-environment)
+- [CI/CD Your Blog](#4-cicd-your-blog)
+- [Epilogue](#5-epilogue)
+- [Reference](#6-reference)
 
 # 1. Abstract
 
 這篇的目的是介紹建立 CI/CD 客製化 Blog。適合有 Git 的知識基礎，且想免費建立客製化個人網站，又想和其他人有些區別，可以來參考這條架設部落格的方法，建議稍微有開發經驗的工程師較為適合，因為文章內提到的部分專有名詞我不會著墨太多。不過這個方法不適合所有人，若只是單純想寫文章，建議還是用其他知名免費的 Blog，在 Google search rank 也可以比較高。
 
-# 2. Environment
+# 2. Workflow
 
 ![2020-10-01---How-to-Create-Personal-Blog.jpg.jpg](/media/2020-10-01---How-to-Create-Personal-Blog.jpg)
+
+完成後的 CI/CD 流程如圖所示，將新文章更新到 Dev Branch，Netlify 即會產生預覽，每次 Commit 皆會產生一個隨機的亂碼加在 Domain 前面，待 review 沒問題後再部屬到 Production 環境。
+
+# 3. Environment
+
 
 1. 安裝 `Node.js` 
     - 根據 OS，參考官網建議的安裝方式：[Install Node.js for your appropriate operating system]([https://www.gatsbyjs.com/tutorial/part-zero/#install-nodejs-for-your-appropriate-operating-system](https://www.gatsbyjs.com/tutorial/part-zero/#install-nodejs-for-your-appropriate-operating-system))
@@ -57,7 +63,7 @@ socialImage: "/media/42-line-bible.jpg"
         - 參考：[A Step-by-Step Guide: Gatsby on Netlify]([https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/](https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/))
 7. 部屬到這即完成，相關 Netlify 設定可至[官網]([https://docs.netlify.com/configure-builds/get-started/#build-image-selection](https://docs.netlify.com/configure-builds/get-started/#build-image-selection))查看
 
-# 3. CI/CD Your Blog
+# 4. CI/CD Your Blog
 
 1. 更新內容
 
@@ -83,13 +89,13 @@ socialImage: "/media/42-line-bible.jpg"
     - 每當 push 時便會自動產生預覽
     - 每當 Push Master 或 Pull request 到 Master，變也會更新 Production
 
-# 4. Epilogue
+# 5. Epilogue
 
 這篇算是一個開始，為之後的文章鋪路，我的 Blog 目的是想建立個人網站(品牌、作品集)、記錄我的學習歷程 (包含工作上的軟、硬實力或是工作外的額外學習)，以及參與比賽的經驗分享，之後也希望能中、英文呈現，順便練習英文表達能力。當初有考慮過 Medium，但沒有 Tag 或 Category 的功能，畫面也不太像是作品集，最後找到網友分享的這篇文章提及的方法。
 
 期許將來能穩定產出些有質量且友善的文章，讓剛踏入這個領域的夥伴能快速上手，內容大部分將會以 Data 相關居多，一來是我本身是 Data engineer，二來我對 Data 的題材比較感興趣。由於我目前工作接下來會將服務上到 AWS，是故打算考個 AWS 相關的證照，預計的 Path：Cloud Practitioner > Developer Associate > Solution Architect Associate > Data Analytics。
 
-# 5. Reference
+# 6. Reference
 
 1. [談再整理自己的文章（下） — 用Gatsby和Netlify建立免費網誌]([https://notes.desktopofsamuel.com/posts/談再整理自己的文章下-用Gatsby和Netlify建立免費網誌](https://notes.desktopofsamuel.com/posts/%E8%AB%87%E5%86%8D%E6%95%B4%E7%90%86%E8%87%AA%E5%B7%B1%E7%9A%84%E6%96%87%E7%AB%A0%E4%B8%8B-%E7%94%A8Gatsby%E5%92%8CNetlify%E5%BB%BA%E7%AB%8B%E5%85%8D%E8%B2%BB%E7%B6%B2%E8%AA%8C))
 2. [Gatsby]([https://www.gatsbyjs.com/](https://www.gatsbyjs.com/))
