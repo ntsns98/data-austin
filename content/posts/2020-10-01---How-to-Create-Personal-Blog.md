@@ -29,7 +29,9 @@ socialImage: "/media/42-line-bible.jpg"
 
 ![2020-10-01---How-to-Create-Personal-Blog.jpg.jpg](/media/2020-10-01---How-to-Create-Personal-Blog.jpg)
 
-完成後的 CI/CD 流程如圖所示，將新文章更新到 Dev Branch，Netlify 即會產生預覽，每次 Commit 皆會產生一個隨機的亂碼加在 Domain 前面，待 review 沒問題後再部屬到 Production 環境。
+完成後的 CI/CD 流程如圖所示，將新文章更新到 Dev Branch，Netlify 即會產生預覽，每次 Commit 皆會產生一個隨機的亂碼加在 Domain 前面，例如：`https://5f7c35b804a8a50007c68bbb--data-science-austin.netlify.app/`
+
+待 review 沒問題後再部屬到 Production 環境，以本篇為例則會更新到：`https://data-austin.netlify.app/`
 
 # 3. Environment
 
