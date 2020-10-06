@@ -9,9 +9,8 @@ tags:
   - "Gatsby"
   - "Github"
   - "Netlify"
-  - "Notion"
 template: post
-title: 如何用 Gatsby、Netlify、Github、Notion 打造客製化免費部落格
+title: 如何用 Gatsby、Netlify、Github 打造客製化免費部落格
 socialImage: "/media/42-line-bible.jpg"
 ---
 
@@ -26,6 +25,8 @@ socialImage: "/media/42-line-bible.jpg"
 這篇的目的是介紹建立 CI/CD 客製化 Blog。適合有 Git 的知識基礎，且想免費建立客製化個人網站，又想和其他人有些區別，可以來參考這條架設部落格的方法，建議稍微有開發經驗的工程師較為適合，因為文章內提到的部分專有名詞我不會著墨太多。不過這個方法不適合所有人，若只是單純想寫文章，建議還是用其他知名免費的 Blog，在 Google search rank 也可以比較高。
 
 # 2. Environment
+
+![2020-10-01---How-to-Create-Personal-Blog.jpg.jpg](/media/2020-10-01---How-to-Create-Personal-Blog.jpg)
 
 1. 安裝 `Node.js` 
     - 根據 OS，參考官網建議的安裝方式：[Install Node.js for your appropriate operating system]([https://www.gatsbyjs.com/tutorial/part-zero/#install-nodejs-for-your-appropriate-operating-system](https://www.gatsbyjs.com/tutorial/part-zero/#install-nodejs-for-your-appropriate-operating-system))
