@@ -8,7 +8,7 @@ module.exports = {
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -18,6 +18,10 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
+    },
+    {
+      label: 'Category - Tools',
+      path: '/category/tools/'
     }
   ],
   author: {
@@ -25,7 +29,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Blog by Austin | Big data engineer',
     contacts: {
-      email: '',
+      email: 'ntsns98@hotmail.com',
       facebook: '',
       telegram: '',
       twitter: '',
@@ -40,9 +44,8 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '@austin_liu',
-      kaggle: 'austinliu',
-
+      medium: '',
+      kaggle: 'austinliu'
     }
   }
 };
