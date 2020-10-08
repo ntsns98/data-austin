@@ -44,9 +44,8 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '@austin_liu',
-      kaggle: 'austinliu',
-
+      medium: '',
+      kaggle: 'austinliu'
     }
   }
 };
