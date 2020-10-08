@@ -88,8 +88,8 @@ socialImage: "/media/42-line-bible.jpg"
         1. [Introducing Deploy Previews in Netlify]([https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews-in-netlify/?_ga=2.228685404.1579865990.1601105370-1463208093.1601105370](https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews-in-netlify/?_ga=2.228685404.1579865990.1601105370-1463208093.1601105370))
         2. [Branch deploy controls]([https://docs.netlify.com/site-deploys/overview/#branch-deploy-controls](https://docs.netlify.com/site-deploys/overview/#branch-deploy-controls))
 6. 完成!!! 
-    - 每當 push 時便會自動產生預覽
-    - 每當 Push Master 或 Pull request 到 Master，變也會更新 Production
+    - 每當 Push 時便會自動產生預覽
+    - 每當 Push Master 或 Pull request 到 Master，也會更新 Production
 
 # 5. Epilogue
 
