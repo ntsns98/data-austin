@@ -11,7 +11,7 @@ tags:
   - "Netlify"
 template: post
 title: 如何用 Gatsby、Netlify、Github 打造客製化免費部落格
-socialImage: "/media/42-line-bible.jpg"
+socialImage: "/media/2020-10-01---How-to-Create-Personal-Blog.jpg"
 ---
 
 - [Abstract](#1-abstract)
